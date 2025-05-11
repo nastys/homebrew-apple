@@ -1,3 +1,5 @@
+# Superceeded by https://github.com/Whisky-App/wine
+
 # Apple Homebrew Tap
 
 This repository contains formulae for use with Homebrew: https://brew.sh
